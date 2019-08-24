@@ -19,4 +19,4 @@ syn = "0.13"
 quote = "0.5"
 
 [dev-dependencies]
-postgres = { git = "https://github.com/sfackler/rust-postgres" }
+postgres = "0.16.0-rc.2"
